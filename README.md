@@ -57,7 +57,6 @@
 
 ---
 
-## 🔍 الكلمات المفتاحية (Keywords)
 `Pinterest Downloader` `Telegram Bot` `No Watermark` `Pinterest HD Video` `Download Pinterest` `بنتراست` `تحميل من بنتراست` `بوت تيليجرام` `بدون علامة مائية` `تحميل فيديوهات` `Pinterest To MP4` `Fast Downloader`
 
 ---
